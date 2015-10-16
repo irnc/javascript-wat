@@ -2,6 +2,10 @@
 
 JavaScript WAT... researched and explained
 
+## Known quirks
+
+http://wtfjs.com/2013/01/28/array-comparison
+
 ## `+` operator
 
 * `34.1 * 100 === 3410`
